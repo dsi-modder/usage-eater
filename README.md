@@ -1,2 +1,2 @@
-# usage-eater
-eats ur CPU and RAM (and maybe GPU I tested this on a Chromebook)
+# RUN AS A LOCAL FILE
+This will only work as a local .html file!
